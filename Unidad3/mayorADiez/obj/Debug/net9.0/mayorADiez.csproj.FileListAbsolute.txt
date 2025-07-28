@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\mayorADiez.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\mayorADiez.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\mayorADiez.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\mayorADiez.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad3\mayorADiez\bin\Debug\net9.0\mayorADiez.exe
+D:\CursoC#Nivel1\Unidad3\mayorADiez\bin\Debug\net9.0\mayorADiez.deps.json
+D:\CursoC#Nivel1\Unidad3\mayorADiez\bin\Debug\net9.0\mayorADiez.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad3\mayorADiez\bin\Debug\net9.0\mayorADiez.dll
+D:\CursoC#Nivel1\Unidad3\mayorADiez\bin\Debug\net9.0\mayorADiez.pdb
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\mayorADiez.dll
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\refint\mayorADiez.dll
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\mayorADiez.pdb
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\mayorADiez.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad3\mayorADiez\obj\Debug\net9.0\ref\mayorADiez.dll

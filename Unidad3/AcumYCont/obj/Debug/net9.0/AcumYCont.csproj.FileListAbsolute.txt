@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad3\AcumYCont\bin\Debug\net9.0\AcumYCont.exe
+D:\CursoC#Nivel1\Unidad3\AcumYCont\bin\Debug\net9.0\AcumYCont.deps.json
+D:\CursoC#Nivel1\Unidad3\AcumYCont\bin\Debug\net9.0\AcumYCont.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad3\AcumYCont\bin\Debug\net9.0\AcumYCont.dll
+D:\CursoC#Nivel1\Unidad3\AcumYCont\bin\Debug\net9.0\AcumYCont.pdb
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\AcumYCont.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\AcumYCont.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\AcumYCont.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\AcumYCont.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\AcumYCont.dll
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\refint\AcumYCont.dll
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\AcumYCont.pdb
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\AcumYCont.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad3\AcumYCont\obj\Debug\net9.0\ref\AcumYCont.dll

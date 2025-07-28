@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\notas.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\notas.AssemblyInfo.cs
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\notas.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\bin\Debug\net9.0\notas.exe
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\bin\Debug\net9.0\notas.deps.json
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\bin\Debug\net9.0\notas.runtimeconfig.json
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\bin\Debug\net9.0\notas.dll
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\bin\Debug\net9.0\notas.pdb
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\notas.dll
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\refint\notas.dll
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\notas.pdb
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\notas.genruntimeconfig.cache
+D:\CursoC#Nivel1\ejercicios-unidad-2\notas\obj\Debug\net9.0\ref\notas.dll

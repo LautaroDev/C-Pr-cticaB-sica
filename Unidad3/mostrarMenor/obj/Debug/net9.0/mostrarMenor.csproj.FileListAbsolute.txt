@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\bin\Debug\net9.0\mostrarMenor.exe
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\bin\Debug\net9.0\mostrarMenor.deps.json
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\bin\Debug\net9.0\mostrarMenor.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\bin\Debug\net9.0\mostrarMenor.dll
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\bin\Debug\net9.0\mostrarMenor.pdb
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\mostrarMenor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\mostrarMenor.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\mostrarMenor.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\mostrarMenor.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\mostrarMenor.dll
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\refint\mostrarMenor.dll
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\mostrarMenor.pdb
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\mostrarMenor.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad3\mostrarMenor\obj\Debug\net9.0\ref\mostrarMenor.dll

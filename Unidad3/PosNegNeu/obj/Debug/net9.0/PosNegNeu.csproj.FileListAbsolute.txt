@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\PosNegNeu.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\PosNegNeu.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\PosNegNeu.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\PosNegNeu.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\bin\Debug\net9.0\PosNegNeu.exe
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\bin\Debug\net9.0\PosNegNeu.deps.json
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\bin\Debug\net9.0\PosNegNeu.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\bin\Debug\net9.0\PosNegNeu.dll
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\bin\Debug\net9.0\PosNegNeu.pdb
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\PosNegNeu.dll
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\refint\PosNegNeu.dll
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\PosNegNeu.pdb
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\PosNegNeu.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad3\PosNegNeu\obj\Debug\net9.0\ref\PosNegNeu.dll

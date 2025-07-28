@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\WHILE.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\WHILE.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\WHILE.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\WHILE.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad5\WHILE\bin\Debug\net9.0\WHILE.exe
+D:\CursoC#Nivel1\Unidad5\WHILE\bin\Debug\net9.0\WHILE.deps.json
+D:\CursoC#Nivel1\Unidad5\WHILE\bin\Debug\net9.0\WHILE.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad5\WHILE\bin\Debug\net9.0\WHILE.dll
+D:\CursoC#Nivel1\Unidad5\WHILE\bin\Debug\net9.0\WHILE.pdb
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\WHILE.dll
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\refint\WHILE.dll
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\WHILE.pdb
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\WHILE.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad5\WHILE\obj\Debug\net9.0\ref\WHILE.dll

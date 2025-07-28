@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad3\mayoresACien\bin\Debug\net9.0\mayoresACien.exe
+D:\CursoC#Nivel1\Unidad3\mayoresACien\bin\Debug\net9.0\mayoresACien.deps.json
+D:\CursoC#Nivel1\Unidad3\mayoresACien\bin\Debug\net9.0\mayoresACien.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad3\mayoresACien\bin\Debug\net9.0\mayoresACien.dll
+D:\CursoC#Nivel1\Unidad3\mayoresACien\bin\Debug\net9.0\mayoresACien.pdb
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\mayoresACien.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\mayoresACien.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\mayoresACien.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\mayoresACien.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\mayoresACien.dll
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\refint\mayoresACien.dll
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\mayoresACien.pdb
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\mayoresACien.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad3\mayoresACien\obj\Debug\net9.0\ref\mayoresACien.dll

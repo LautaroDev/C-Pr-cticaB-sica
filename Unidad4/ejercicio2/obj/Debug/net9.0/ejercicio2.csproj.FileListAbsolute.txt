@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad4\ejercicio2\bin\Debug\net9.0\ejercicio2.exe
+D:\CursoC#Nivel1\Unidad4\ejercicio2\bin\Debug\net9.0\ejercicio2.deps.json
+D:\CursoC#Nivel1\Unidad4\ejercicio2\bin\Debug\net9.0\ejercicio2.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad4\ejercicio2\bin\Debug\net9.0\ejercicio2.dll
+D:\CursoC#Nivel1\Unidad4\ejercicio2\bin\Debug\net9.0\ejercicio2.pdb
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ejercicio2.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ejercicio2.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ejercicio2.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ejercicio2.dll
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\refint\ejercicio2.dll
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ejercicio2.pdb
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ejercicio2.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad4\ejercicio2\obj\Debug\net9.0\ref\ejercicio2.dll

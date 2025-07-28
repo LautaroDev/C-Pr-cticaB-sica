@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad3\Descuento\bin\Debug\net9.0\Descuento.exe
+D:\CursoC#Nivel1\Unidad3\Descuento\bin\Debug\net9.0\Descuento.deps.json
+D:\CursoC#Nivel1\Unidad3\Descuento\bin\Debug\net9.0\Descuento.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad3\Descuento\bin\Debug\net9.0\Descuento.dll
+D:\CursoC#Nivel1\Unidad3\Descuento\bin\Debug\net9.0\Descuento.pdb
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\Descuento.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\Descuento.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\Descuento.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\Descuento.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\Descuento.dll
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\refint\Descuento.dll
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\Descuento.pdb
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\Descuento.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad3\Descuento\obj\Debug\net9.0\ref\Descuento.dll

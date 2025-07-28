@@ -1,0 +1,14 @@
+D:\CursoC#Nivel1\Unidad4\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+D:\CursoC#Nivel1\Unidad4\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+D:\CursoC#Nivel1\Unidad4\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad4\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+D:\CursoC#Nivel1\Unidad4\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad4\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll
