@@ -1,0 +1,15 @@
+D:\CursoC#Nivel1\Unidad6\Ej1\bin\Debug\net9.0\CorteDeControl.exe
+D:\CursoC#Nivel1\Unidad6\Ej1\bin\Debug\net9.0\CorteDeControl.deps.json
+D:\CursoC#Nivel1\Unidad6\Ej1\bin\Debug\net9.0\CorteDeControl.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad6\Ej1\bin\Debug\net9.0\CorteDeControl.dll
+D:\CursoC#Nivel1\Unidad6\Ej1\bin\Debug\net9.0\CorteDeControl.pdb
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.sourcelink.json
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.dll
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\refint\CorteDeControl.dll
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.pdb
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\CorteDeControl.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad6\Ej1\obj\Debug\net9.0\ref\CorteDeControl.dll

@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Ciclos combinados:
-        // For con While:
+        
         int n, prom;
 
         Console.WriteLine("Ingrese 1 para comenzar a procesar o 0 para terminar: ");

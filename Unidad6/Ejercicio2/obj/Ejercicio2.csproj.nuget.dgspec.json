@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\CorteDeControl.csproj": {}
+    "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio2\\Ejercicio2.csproj": {}
   },
   "projects": {
-    "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\CorteDeControl.csproj": {
+    "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio2\\Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\CorteDeControl.csproj",
-        "projectName": "CorteDeControl",
-        "projectPath": "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\CorteDeControl.csproj",
+        "projectUniqueName": "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio2\\Ejercicio2.csproj",
+        "projectName": "Ejercicio2",
+        "projectPath": "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio2\\Ejercicio2.csproj",
         "packagesPath": "C:\\Users\\Lautaro\\.nuget\\packages\\",
-        "outputPath": "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\obj\\",
+        "outputPath": "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lautaro\\AppData\\Roaming\\NuGet\\NuGet.Config"

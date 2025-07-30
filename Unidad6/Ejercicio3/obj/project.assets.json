@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\CorteDeControl.csproj",
-      "projectName": "CorteDeControl",
-      "projectPath": "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\CorteDeControl.csproj",
+      "projectUniqueName": "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio3\\Ejercicio3.csproj",
+      "projectName": "Ejercicio3",
+      "projectPath": "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio3\\Ejercicio3.csproj",
       "packagesPath": "C:\\Users\\Lautaro\\.nuget\\packages\\",
-      "outputPath": "D:\\CursoC#Nivel1\\Unidad6\\CorteDeControl\\obj\\",
+      "outputPath": "D:\\CursoC#Nivel1\\Unidad6\\Ejercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lautaro\\AppData\\Roaming\\NuGet\\NuGet.Config"
