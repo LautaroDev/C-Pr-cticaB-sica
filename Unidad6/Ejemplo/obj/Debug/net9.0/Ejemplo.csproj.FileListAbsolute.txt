@@ -1,0 +1,15 @@
+D:\CursoC#Nivel1\Unidad6\Ejemplo\bin\Debug\net9.0\Ejemplo.exe
+D:\CursoC#Nivel1\Unidad6\Ejemplo\bin\Debug\net9.0\Ejemplo.deps.json
+D:\CursoC#Nivel1\Unidad6\Ejemplo\bin\Debug\net9.0\Ejemplo.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad6\Ejemplo\bin\Debug\net9.0\Ejemplo.dll
+D:\CursoC#Nivel1\Unidad6\Ejemplo\bin\Debug\net9.0\Ejemplo.pdb
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.sourcelink.json
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.dll
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\refint\Ejemplo.dll
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.pdb
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\Ejemplo.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad6\Ejemplo\obj\Debug\net9.0\ref\Ejemplo.dll
