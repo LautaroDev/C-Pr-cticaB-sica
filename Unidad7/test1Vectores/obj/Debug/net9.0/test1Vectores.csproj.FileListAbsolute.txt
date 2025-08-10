@@ -1,0 +1,15 @@
+D:\CursoC#Nivel1\Unidad7\test1Vectores\bin\Debug\net9.0\test1Vectores.exe
+D:\CursoC#Nivel1\Unidad7\test1Vectores\bin\Debug\net9.0\test1Vectores.deps.json
+D:\CursoC#Nivel1\Unidad7\test1Vectores\bin\Debug\net9.0\test1Vectores.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad7\test1Vectores\bin\Debug\net9.0\test1Vectores.dll
+D:\CursoC#Nivel1\Unidad7\test1Vectores\bin\Debug\net9.0\test1Vectores.pdb
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.sourcelink.json
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.dll
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\refint\test1Vectores.dll
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.pdb
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\test1Vectores.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad7\test1Vectores\obj\Debug\net9.0\ref\test1Vectores.dll
