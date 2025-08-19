@@ -1,0 +1,15 @@
+D:\CursoC#Nivel1\Unidad7\Practica1\bin\Debug\net9.0\Practica1.exe
+D:\CursoC#Nivel1\Unidad7\Practica1\bin\Debug\net9.0\Practica1.deps.json
+D:\CursoC#Nivel1\Unidad7\Practica1\bin\Debug\net9.0\Practica1.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad7\Practica1\bin\Debug\net9.0\Practica1.dll
+D:\CursoC#Nivel1\Unidad7\Practica1\bin\Debug\net9.0\Practica1.pdb
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.sourcelink.json
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.dll
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\refint\Practica1.dll
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.pdb
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\Practica1.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad7\Practica1\obj\Debug\net9.0\ref\Practica1.dll

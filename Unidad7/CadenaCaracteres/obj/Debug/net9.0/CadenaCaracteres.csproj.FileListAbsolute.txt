@@ -1,0 +1,15 @@
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\bin\Debug\net9.0\CadenaCaracteres.exe
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\bin\Debug\net9.0\CadenaCaracteres.deps.json
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\bin\Debug\net9.0\CadenaCaracteres.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\bin\Debug\net9.0\CadenaCaracteres.dll
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\bin\Debug\net9.0\CadenaCaracteres.pdb
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.sourcelink.json
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.dll
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\refint\CadenaCaracteres.dll
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.pdb
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\CadenaCaracteres.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad7\CadenaCaracteres\obj\Debug\net9.0\ref\CadenaCaracteres.dll
