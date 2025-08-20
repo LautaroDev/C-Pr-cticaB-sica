@@ -1,0 +1,15 @@
+D:\CursoC#Nivel1\Unidad7\Practica4\bin\Debug\net9.0\Practica4.exe
+D:\CursoC#Nivel1\Unidad7\Practica4\bin\Debug\net9.0\Practica4.deps.json
+D:\CursoC#Nivel1\Unidad7\Practica4\bin\Debug\net9.0\Practica4.runtimeconfig.json
+D:\CursoC#Nivel1\Unidad7\Practica4\bin\Debug\net9.0\Practica4.dll
+D:\CursoC#Nivel1\Unidad7\Practica4\bin\Debug\net9.0\Practica4.pdb
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.AssemblyInfoInputs.cache
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.AssemblyInfo.cs
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.csproj.CoreCompileInputs.cache
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.sourcelink.json
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.dll
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\refint\Practica4.dll
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.pdb
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\Practica4.genruntimeconfig.cache
+D:\CursoC#Nivel1\Unidad7\Practica4\obj\Debug\net9.0\ref\Practica4.dll
